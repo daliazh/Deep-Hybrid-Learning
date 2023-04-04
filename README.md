@@ -8,7 +8,8 @@ To detect nail-based diseases, a Deep Hybrid Learning (DHL) approach was propose
 * sutiable for small sized datasets.
 
 ## Model Architecture
-![architechture](https://user-images.githubusercontent.com/85033378/229882813-190aef40-5ce6-41fc-914e-15775f0093b1.jpg)
+![DHL_structure](https://user-images.githubusercontent.com/85033378/229886019-5b90cc89-1f4d-4bb2-9524-4c8002cb5c49.jpeg)
+
 
 ## DHL Algorithm
 ![Screenshot 2023-04-04 212101](https://user-images.githubusercontent.com/85033378/229883099-fe62a2d7-d1ec-40c0-bed8-f3a3480100b4.png)
